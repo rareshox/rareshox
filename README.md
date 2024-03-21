@@ -11,7 +11,8 @@ As a DevOps-empowered Platform Engineer, I consistently pursue new knowledge and
 *   🚀  I'm currently working on [DevOps Learning Platform](http://tntk.io)
 *   🧠  I'm learning K8S
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  I'm a discreet Hookah Supervisor with a primary focus on the IT sphere, overseeing operations in New York and Florida while maintaining seamless service and customer ### Skills 
+*   ⚡  I'm a discreet Hookah Supervisor with a primary focus on the IT sphere, overseeing operations in New York and Florida while maintaining seamless service and customer
+  ### Skills 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
